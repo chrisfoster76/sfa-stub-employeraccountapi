@@ -37,7 +37,7 @@ app.listen(port, () => {
 
 sendFile = function(res, url, method) {
 
-    var filename = "responses" + url.replace(/\/$/, '') + '_' + method.toLowerCase() + '.json';
+    const filename = ("responses" + url.replace(/\/$/, '') + '_' + method + '.json').toLowerCase();
     
     console.log("Processing request for " + path.join(__dirname, filename));
 
