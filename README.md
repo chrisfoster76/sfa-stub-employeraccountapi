@@ -1,2 +1,2 @@
-# sfa-stub-reservations
-Stubbed Reservations Web and API for Commitments user journey local dev
+# sfa-stub-employeraccountapi
+Stubbed Employer Account API for Commitments products dependencies
