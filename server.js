@@ -36,7 +36,10 @@ app.listen(port, () => {
 
 
 sendFile = function(res, url, method) {
+
     var filename = "responses" + url.replace(/\/$/, '') + '_' + method + '.json';
+    
+    console.log("Processing request for " + path.join(__dirname, filename));
 
     if(!fs.existsSync(filename))
     {
