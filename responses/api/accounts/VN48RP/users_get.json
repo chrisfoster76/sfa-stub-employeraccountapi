@@ -1,0 +1,18 @@
+[
+	{
+		"UserRef": "C072F9FF-3AB5-4DE4-B232-51B2ECABE642",
+	    "Name": "Chris Foster",
+	    "Email": "foster186@hotmail.com",
+	    "Role": "Owner",
+	    "CanReceiveNotifications": false,
+	    "Status": "Accepted"
+	},
+	{
+		"UserRef": "c31c759e-c651-4131-a67e-f863db82365b",
+	    "Name": "Chris Foster",
+	    "Email": "chrisfoster186-auto@hotmail.com",
+	    "Role": "Owner",
+	    "CanReceiveNotifications": false,
+	    "Status": "Accepted"
+	}
+]
