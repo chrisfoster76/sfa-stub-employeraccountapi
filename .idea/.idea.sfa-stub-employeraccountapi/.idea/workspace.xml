@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98ebb430-8141-4e55-bc48-ddf7bbec953b" name="Default Changelist" comment="More data">
+    <list default="true" id="98ebb430-8141-4e55-bc48-ddf7bbec953b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.sfa-stub-employeraccountapi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.sfa-stub-employeraccountapi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/responses/api/accounts/rgb5g8/transfers/connections_get.json" beforeDir="false" afterPath="$PROJECT_DIR$/responses/api/accounts/rgb5g8/transfers/connections_get.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/responses/api/accounts/vn48rp/transfers/connections_get.json" beforeDir="false" afterPath="$PROJECT_DIR$/responses/api/accounts/vn48rp/transfers/connections_get.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/api/accounts/vnr6p9/legalentities/1234_get.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/api/accounts/vnr6p9/legalentities/1234_get.json" beforeDir="false" afterPath="$PROJECT_DIR$/responses/api/accounts/r5w6wz/legalentities/1234_get.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/api/accounts/vnr6p9/legalentities_get.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/api/accounts/vnr6p9/legalentities_get.json" beforeDir="false" afterPath="$PROJECT_DIR$/responses/api/accounts/r5w6wz/legalentities_get.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/api/accounts/vnr6p9/transfers/connections_get.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/api/accounts/vnr6p9/transfers/connections_get.json" beforeDir="false" afterPath="$PROJECT_DIR$/responses/api/accounts/r5w6wz/transfers/connections_get.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/api/accounts/vnr6p9/users_get.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/responses/api/accounts/vnr6p9/users_get.json" beforeDir="false" afterPath="$PROJECT_DIR$/responses/api/accounts/r5w6wz/users_get.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +32,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/responses/api/accounts/rgb5g8/transfers/connections_get.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state>
+              <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/responses/api/accounts/r5w6wz/users_get.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/responses/api/accounts/r5w6wz/legalentities_get.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/responses/api/accounts/r5w6wz/legalentities/1234_get.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/responses/api/accounts/r5w6wz/transfers/connections_get.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -36,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/responses/api/accounts/vn48rp/transfers/connections_get.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -60,42 +102,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/responses/api/accounts/rgb5g8/users_get.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/responses/api/accounts/vn48rp/legalentities/4032_get.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/responses/api/accounts/vn48rp/legalentities/3884_get.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="24" selection-end-line="32" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="105">
+              <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -122,9 +132,13 @@
         <option value="$PROJECT_DIR$/responses/api/accounts/rgb5g8/legalentities/7261_get.json" />
         <option value="$PROJECT_DIR$/responses/api/accounts/rgb5g8/legalentities/7262_get.json" />
         <option value="$PROJECT_DIR$/responses/api/accounts/rgb5g8/legalentities_get.json" />
+        <option value="$PROJECT_DIR$/responses/api/accounts/rgb5g8/users_get.json" />
         <option value="$PROJECT_DIR$/responses/api/accounts/vn48rp/transfers/connections_get.json" />
         <option value="$PROJECT_DIR$/responses/api/accounts/rgb5g8/transfers/connections_get.json" />
-        <option value="$PROJECT_DIR$/responses/api/accounts/rgb5g8/users_get.json" />
+        <option value="$PROJECT_DIR$/responses/api/accounts/vnr6p9/users_get.json" />
+        <option value="$PROJECT_DIR$/responses/api/accounts/vnr6p9/transfers/connections_get.json" />
+        <option value="$PROJECT_DIR$/responses/api/accounts/r5w6wz/legalentities_get.json" />
+        <option value="$PROJECT_DIR$/responses/api/accounts/r5w6wz/legalentities/1234_get.json" />
       </list>
     </option>
   </component>
@@ -170,6 +184,23 @@
               <item name="responses" type="34e6ba20:FileSystemExplorerNode" />
               <item name="api" type="34e6ba20:FileSystemExplorerNode" />
               <item name="accounts" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="sfa-stub-employeraccountapi" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="responses" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="api" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="accounts" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="r5w6wz" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="sfa-stub-employeraccountapi" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="responses" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="api" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="accounts" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="r5w6wz" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="legalentities" type="34e6ba20:FileSystemExplorerNode" />
             </path>
             <path>
               <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
@@ -279,7 +310,7 @@
       <workItem from="1549372424010" duration="5020000" />
       <workItem from="1549445295881" duration="4841000" />
       <workItem from="1549465506963" duration="10199000" />
-      <workItem from="1549550886129" duration="890000" />
+      <workItem from="1549550886129" duration="2031000" />
     </task>
     <task id="LOCAL-00001" summary="to lower case on method">
       <created>1549446824662</created>
@@ -337,11 +368,25 @@
       <option name="project" value="LOCAL" />
       <updated>1549538117341</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="More data">
+      <created>1549552148167</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1549552148167</updated>
+    </task>
+    <task id="LOCAL-00010" summary="More data">
+      <created>1549552485411</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1549552485411</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20950000" />
+    <option name="totallyTimeSpent" value="22091000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,7 +398,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3832" y="453" width="1936" height="1056" extended-state="7" />
+    <frame x="3832" y="453" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
@@ -451,20 +496,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/responses/api/accounts/vn48rp/transfers/connections_get.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/responses/api/accounts/rgb5g8/transfers/connections_get.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/responses/api/accounts/vn48rp/legalentities/4032_get.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -496,10 +527,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/responses/api/accounts/rgb5g8/transfers/connections_get.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/responses/api/accounts/rgb5g8/users_get.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="105">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responses/api/accounts/vn48rp/transfers/connections_get.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responses/api/accounts/r5w6wz/transfers/connections_get.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responses/api/accounts/r5w6wz/legalentities/1234_get.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responses/api/accounts/r5w6wz/legalentities_get.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/responses/api/accounts/r5w6wz/users_get.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
