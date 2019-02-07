@@ -6,5 +6,13 @@
 		"Role": "Owner",
 		"CanReceiveNotifications": false,
 		"Status": "Accepted"
+	},
+	{
+		"UserRef": "c072f9ff-3ab5-4de4-b232-51b2ecabe642",
+		"Name": "Chris Foster",
+		"Email": "foster186@hotmail.com",
+		"Role": "Owner",
+		"CanReceiveNotifications": false,
+		"Status": "Accepted"
 	}
 ]
