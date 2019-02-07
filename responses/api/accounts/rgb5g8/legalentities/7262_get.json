@@ -1,0 +1,33 @@
+{
+  "DasAccountId": "RGB5G8",
+  "LegalEntityId": 7262,
+  "Address": "1 High Street",
+  "Source": "Companies House",
+  "Status": null,
+  "Name": "MegaCorp Bank",
+  "Code": "372628",
+  "DateOfInception": "2016-10-05T00:00:00",
+  "PublicSectorDataSource": "",
+  "Sector": "",
+  "Agreements": [
+    {
+      "TemplateVersionNumber": 1,
+      "Status": 2,
+      "AgreementSignedByName": null,
+      "AgreementSignedDate": null,
+      "SourceNumeric": 1
+    },
+    {
+      "TemplateVersionNumber": 2,
+      "Status": 2,
+      "AgreementSignedByName": null,
+      "AgreementSignedDate": null,
+      "SourceNumeric": 1
+    }
+  ],
+  "AgreementStatus": 1,
+  "AgreementSignedByName": "Chris Foster",
+  "AgreementSignedDate": "2017-11-07T11:20:52.02",
+  "SourceNumeric": 1,
+  "AccountLegalEntityPublicHashedId": "4NJ3V4"
+}
