@@ -3,7 +3,7 @@
 		"UserRef": "37e9761e-1dc9-42b7-9054-787794ad6442",
 		"Name": "Chris Foster",
 		"Email": "foster186@hotmail.com",
-		"Role": "Owner",
+		"Role": "Transactor",
 		"CanReceiveNotifications": false,
 		"Status": "Accepted"
 	},
@@ -11,7 +11,7 @@
 		"UserRef": "c072f9ff-3ab5-4de4-b232-51b2ecabe642",
 		"Name": "Chris Foster",
 		"Email": "foster186@hotmail.com",
-		"Role": "Owner",
+		"Role": "Transactor",
 		"CanReceiveNotifications": false,
 		"Status": "Accepted"
 	}
