@@ -30,6 +30,10 @@ app.get('/api/*',(req, res) => {
     sendFile(res, req.url, req.method);
 });
 
+app.get('/api-v2/*',(req, res) => {
+    sendFile(res, req.url, req.method);
+});
+
 app.listen(port, () => {
     console.log("Server listening on port " + port);
   });
