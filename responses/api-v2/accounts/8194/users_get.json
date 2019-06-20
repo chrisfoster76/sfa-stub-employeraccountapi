@@ -6,5 +6,9 @@
   {
     "UserRef": "C072F9FF-3AB5-4DE4-B232-51B2ECABE642",
     "Roles": ["Owner"]
+  },
+  {
+    "UserRef": "9fd88d02-57c2-42b1-a128-59187402a46d",
+    "Roles": ["Viewer"]
   }
 ]
