@@ -10,5 +10,5 @@
   "Balance": 0,
   "TransferAllowance": 0,
   "DasAccountId": 30060,
-  "LevyStatus": "NonLevy"
+  "ApprenticeshipEmployerType": "NonLevy"
 }

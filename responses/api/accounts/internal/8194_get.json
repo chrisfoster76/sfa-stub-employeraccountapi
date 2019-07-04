@@ -10,5 +10,5 @@
   "Balance": 1000000,
   "TransferAllowance": 100000,
   "DasAccountId": 8194,
-  "LevyStatus": "Levy"
+  "ApprenticeshipEmployerType": "Levy"
 }
