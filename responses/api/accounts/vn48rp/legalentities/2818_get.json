@@ -12,14 +12,14 @@
   "Agreements": [
     {
       "TemplateVersionNumber": 1,
-      "Status": 2,
+      "Status": 1,
       "AgreementSignedByName": null,
       "AgreementSignedDate": null,
       "SourceNumeric": 1
     },
     {
       "TemplateVersionNumber": 2,
-      "Status": 2,
+      "Status": 1,
       "AgreementSignedByName": null,
       "AgreementSignedDate": null,
       "SourceNumeric": 1
