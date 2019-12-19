@@ -11,19 +11,11 @@
   "Sector": null,
   "Agreements": [
     {
-      "Id": 1,
-      "TemplateVersionNumber": 1,
+      "Id": 3,
+      "TemplateVersionNumber": 3,
       "Status": 2,
       "SignedByName": null,
       "SignedDate": null
-    },
-    {
-      "Id": 2,
-      "TemplateVersionNumber": 2,
-      "Status": 2,
-      "SignedByName": null,
-      "SignedDate": null
-
     }
   ],
   "AgreementStatus": 2,
