@@ -4,7 +4,7 @@
 	    "Name": "Chris Foster",
 	    "Email": "chrisfoster186@googlemail.com",
 	    "Role": "Owner",
-	    "CanReceiveNotifications": false,
+	    "CanReceiveNotifications": true,
 	    "Status": "Accepted"
 	},
 	{
@@ -12,7 +12,7 @@
 	    "Name": "Chris Foster",
 	    "Email": "chrisfoster186-auto@hotmail.com",
 	    "Role": "Owner",
-	    "CanReceiveNotifications": false,
+	    "CanReceiveNotifications": true,
 	    "Status": "Accepted"
 	},
 	{
@@ -20,7 +20,7 @@
 		"Name": "Chris Foster",
 		"Email": "chrisfoster186@googlemail.com",
 		"Role": "Owner",
-		"CanReceiveNotifications": false,
+		"CanReceiveNotifications": true,
 		"Status": "Accepted"
 	},
 	{
@@ -28,7 +28,7 @@
 		"Name": "Toby McGoby",
 		"Email": "chrisfoster186+toby@googlemail.com",
 		"Role": "Viewer",
-		"CanReceiveNotifications": false,
+		"CanReceiveNotifications": true,
 		"Status": "Accepted"
 	}
 ]
