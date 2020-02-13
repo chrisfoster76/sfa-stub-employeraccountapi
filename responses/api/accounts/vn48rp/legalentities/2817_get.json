@@ -13,7 +13,7 @@
     {
       "Id": 1,
       "TemplateVersionNumber": 1,
-      "Status": 2,
+      "Status": 1,
       "SignedByName": null,
       "SignedDate": null
 
@@ -21,7 +21,7 @@
     {
       "Id": 2,
       "TemplateVersionNumber": 2,
-      "Status": 2,
+      "Status": 1,
       "SignedByName": null,
       "SignedDate": null
     }
