@@ -4,6 +4,8 @@
     <e p="C:\code\sfa\sfa-stub-employeraccountapi" t="IncludeFlat">
       <e p="node_modules\@types" t="IncludeRecursive">
         <e p="babel-types" t="IncludeRecursive" />
+        <e p="bson" t="IncludeRecursive" />
+        <e p="node" t="IncludeRecursive" />
       </e>
       <e p="node_modules\body-parser" t="IncludeRecursive" />
       <e p="node_modules\express" t="IncludeRecursive" />
