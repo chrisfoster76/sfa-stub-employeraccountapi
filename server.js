@@ -20,12 +20,6 @@ app.get("/", (req, res) => {
     res.render('splash');
 });
 
-/*
-app.get("/api/accounts/VN48RP/transfers/connections", (req, res) => {
-    sendFile(res, req.url);
-});
-*/
-
 app.get('/api/*',(req, res) => {
     sendFile(res, req.url, req.method);
 });
