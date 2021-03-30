@@ -10,7 +10,6 @@
       <e p="node_modules\body-parser" t="IncludeRecursive" />
       <e p="node_modules\express" t="IncludeRecursive" />
       <e p="node_modules\mongoose" t="IncludeRecursive" />
-      <e p="node_modules\node.js" t="IncludeRecursive" />
       <e p="node_modules\npm" t="IncludeRecursive" />
       <e p="node_modules\pug" t="IncludeRecursive" />
     </e>
